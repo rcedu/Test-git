@@ -20,6 +20,3 @@ Utilisez cette section pour indiquer aux gens comment signaler une vulnérabilit
 Dites-leur où aller, à quelle fréquence ils peuvent s'attendre à recevoir une mise à jour sur une vulnérabilité signalée, à quoi s'attendre si la vulnérabilité est acceptée ou non.
 vulnérabilité signalée, à quoi s'attendre si la vulnérabilité est acceptée ou refusée, etc.
 acceptée ou refusée, etc.
-
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
